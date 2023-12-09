@@ -1,6 +1,10 @@
 # Fair-House-Rent-Prediction-and-Suggestion.-
 This project aims to assist users in estimating fair rental prices for housing based on various parameters.
-By inputting key details such as the number of bedrooms, bathrooms, seller type, area size, locality, property type, layout, and furnishing, the system generates a predicted rent value. This prediction serves as a baseline for users to ensure they're not overcharged and helps in making informed decisions while searching for accommodation.
+By inputting key details such as the number of bedrooms, bathrooms, seller type, area size, locality, property type, layout, and furnishing, the system generates a predicted rent value. This prediction serves as a baseline for users to ensure they're not overcharged and helps in making informed decisions while searching for accommodation. 
+
+Currently this project is only trained with Chennai data.
+The dataset was taken from kaggle at:https://www.kaggle.com/datasets/saisaathvik/house-rent-prices-of-metropolitan-cities-in-india/data.
+The data used from this dataset was _All_Cities_Cleaned.csv.
 
 Key Features:
 
